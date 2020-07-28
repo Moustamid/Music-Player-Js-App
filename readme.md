@@ -6,7 +6,7 @@ Live Demo : https://moustamid.github.io/Music-Player-Js-App/
 
 ## Project Specifications
 
-- Create UI for music player including spinning image and song detail popup
+- UI music player including spinning image and song detail popup
 - Add play and pause functionality
 - Switch songs
 - Progress bar
