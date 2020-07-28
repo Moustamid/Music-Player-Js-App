@@ -10,3 +10,8 @@ Live Demo : https://moustamid.github.io/Music-Player-Js-App/
 - Add play and pause functionality
 - Switch songs
 - Progress bar
+
+
+![](images/snapchat.PNG)
+
+
