@@ -1,6 +1,6 @@
 ## Music Player
 
-Create beautiful UI to play music stored in the "music folder" using the HTML5 audio API 
+beautiful UI to play music stored in the "music folder" using the HTML5 audio API 
 
 Live Demo : https://moustamid.github.io/Music-Player-Js-App/
 
